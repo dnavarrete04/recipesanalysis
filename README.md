@@ -1,5 +1,5 @@
 # Analysis on Nutrition in Online Recipes
-Daniela Navarrete
+Daniela Navarrete  
 Final project for DSC 80 at UCSD.
 ### Introduction
 The dataset I will be working with contains information about recipies posted online in food.com from 2008 to 2017. My analysis is centered around exploring the nutritional content of recipes and its relationship with a recipe's average rating and other features in the dataset. Specifically, I will exploring whether higher rated recipes have a different distribution of sodium content compared to lower rated recipies. This analysis could provide an insight into what highly rated recipes.....
